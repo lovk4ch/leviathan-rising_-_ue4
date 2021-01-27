@@ -1,0 +1,4 @@
+Импорт анимаций:
+1. Скачиваем отсюда нужную: https://github.com/lovk4ch/leviathan-rising_-_unity/tree/master/Assets/Models/Leviathan/Motion
+2. В 3ds max меняем Leg Bones на _1, ... _4 и LLeg, RLeg на 11, ... 41
+3. Импортируем, scale = 10, параметры повторяем
